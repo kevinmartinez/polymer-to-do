@@ -1,0 +1,13 @@
+{
+  "name": "to-do-list-app",
+  "version": "1.0.0",
+  "main": "src/to-do-list-app.js",
+  "author": "Kevin Martinez",
+  "scripts": {
+    "start": "polymer serve"
+  },
+  "dependencies": {
+    "@polymer/polymer": "3.0.2",
+    "@webcomponents/webcomponentsjs": "2.0.0"
+  }
+}
